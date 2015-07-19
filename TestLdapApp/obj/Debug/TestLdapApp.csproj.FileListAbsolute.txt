@@ -1,0 +1,2 @@
+e:\users\chris\documents\visual studio 2012\Projects\TestLdapApp\TestLdapApp\bin\Debug\TestLdapApp.exe.config
+e:\users\chris\documents\visual studio 2012\Projects\TestLdapApp\TestLdapApp\obj\Debug\TestLdapApp.csprojResolveAssemblyReference.cache
